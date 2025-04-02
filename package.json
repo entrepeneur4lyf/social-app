@@ -217,7 +217,7 @@
     "@atproto/dev-env": "^0.3.87",
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
-    "@babel/runtime": "^7.26.0",
+    "@babel/runtime": "^7.26.10",
     "@did-plc/server": "^0.0.1",
     "@expo/config-plugins": "9.0.10",
     "@lingui/cli": "^4.14.1",
